@@ -7,6 +7,7 @@ Python code for algorithms described in [*Elements of Statistical Learning*](htt
 
 ## Prerequisites
 
+* Python 3
 * [Jupyter](https://jupyter.org/install)
 * [numpy](https://www.scipy.org/install.html)
 
